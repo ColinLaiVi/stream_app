@@ -1,0 +1,22 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is a great stream.",
+      "userId": "111589677659420898948",
+      "id": 1
+    },
+    {
+      "title": "Good Stream!",
+      "description": "This is a good stream.",
+      "userId": "111589677659420898948",
+      "id": 2
+    },
+    {
+      "title": "Game String !",
+      "description": "a good stream.",
+      "userId": "111589677659420898948",
+      "id": 3
+    }
+  ]
+}
